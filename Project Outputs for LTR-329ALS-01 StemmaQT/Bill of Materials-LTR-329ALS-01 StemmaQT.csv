@@ -1,0 +1,8 @@
+Description,Designator,Manufacturer 1,Manufacturer Part Number 1,Supplier 1,Supplier Part Number 1,Quantity
+
+"Capacitor Surface Mount 0603 Footprint 1UF 16V 10% Tolerance Ceramic X7R","C1, C2","Yageo","CC0603KRX7R7BB105","Digi-Key","311-1446-1-ND","2"
+"JST 4-Pin SR Series, SMD (1MM, 4 Pos)","J1, J2","JST","SM04B-SRSS-TB(LF)(SN)","Digi-Key","455-1804-6-ND","2"
+"Dual N-Channel Trench MOSFET, 60 V, 0.32 A SOT-363","Q1","Nexperia","BSS138BKS,115","Digi-Key","1727-6478-1-ND","1"
+"10k Ohm ±5% 62.5mW Power Per Element Isolated  Resistor Network/Array ±200ppm/°C 1206 (3216 Metric), Convex, Long Side Terminals","R1","Bourns","CAY16-103J4LF","Digi-Key","CAY16-103J4LFCT-ND","1"
+"Optical Sensor Ambient  I²C 4-VDFN","U1","Vishay Lite-On","LTR-329ALS-01","Digi-Key","160-2160-1-ND","1"
+"Linear Voltage Regulator IC  1 Output  250mA SOT-23-5","U2","Texas Instruments","LP5907MFX-2.5/NOPB","Digi-Key","296-40356-1-ND","1"
